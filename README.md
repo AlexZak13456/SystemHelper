@@ -90,7 +90,7 @@ AI 分析可能存在以下问题：
 ├── SystemHelper_Audit-Report.md    # 逆向工程与安全审计总报告（v1.0）
 ├── Binaries/                       # 二进制样本
 │   └── SystemHelper_1.2-20221110.apk
-├── audit/                          # 5 份底稿
+├── audit/
 │   └── decompiled/
 │       ├── raw/                    # JADX 原始输出（未反混淆，保真以此为准）
 │       └── deobfuscated/           # 人工语义化命名
@@ -187,7 +187,7 @@ Each conclusion in the report is tagged with an evidence level:
 ├── SystemHelper_Audit-Report.md    # Master reverse-engineering and security audit report (v1.0)
 ├── Binaries/                       # Binary sample
 │   └── SystemHelper_1.2-20221110.apk
-├── audit/                          # 5 source drafts
+├── audit/
 │   └── decompiled/
 │       ├── raw/                    # Raw JADX output (not deobfuscated; authoritative)
 │       └── deobfuscated/            # Manually renamed for readability
@@ -284,7 +284,7 @@ Each conclusion in the report is tagged with an evidence level:
 ├── SystemHelper_Audit-Report.md    # Сводный отчёт по обратной разработке и аудиту безопасности (v1.0)
 ├── Binaries/                       # Двоичный образец
 │   └── SystemHelper_1.2-20221110.apk
-├── audit/                          # 5 исходных черновиков
+├── audit/
 │   └── decompiled/
 │       ├── raw/                    # Исходный вывод JADX (без деобфускации; эталон)
 │       └── deobfuscated/           # Имена, присвоенные вручную для читаемости
