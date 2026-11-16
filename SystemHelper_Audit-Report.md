@@ -1,5 +1,7 @@
 # SystemHelper 逆向工程与安全审计总报告
 
+**语言：** 中文 · [English (US)](SystemHelper_Audit-Report.en-US.md) · [Русский](SystemHelper_Audit-Report.ru-RU.md)
+
 | 项目 | 内容 |
 |---|---|
 | 报告版本 | 总报告 v1.0（整合 5 份底稿） |

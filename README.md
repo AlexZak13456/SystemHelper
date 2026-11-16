@@ -87,7 +87,9 @@ AI 分析可能存在以下问题：
 ```text
 .
 ├── README.md
-├── SystemHelper_Audit-Report.md    # 逆向工程与安全审计总报告（v1.0）
+├── SystemHelper_Audit-Report.md          # 逆向工程与安全审计总报告（中文）
+├── SystemHelper_Audit-Report.en-US.md    # 同上，美式英语版 / English (US)
+├── SystemHelper_Audit-Report.ru-RU.md    # 同上，俄语版 / Русский
 ├── Binaries/                       # 二进制样本
 │   └── SystemHelper_1.2-20221110.apk
 ├── audit/
@@ -184,7 +186,9 @@ Each conclusion in the report is tagged with an evidence level:
 ```text
 .
 ├── README.md
-├── SystemHelper_Audit-Report.md    # Master reverse-engineering and security audit report (v1.0)
+├── SystemHelper_Audit-Report.md          # Master report (Chinese)
+├── SystemHelper_Audit-Report.en-US.md    # Same report, American English
+├── SystemHelper_Audit-Report.ru-RU.md    # Same report, Russian
 ├── Binaries/                       # Binary sample
 │   └── SystemHelper_1.2-20221110.apk
 ├── audit/
@@ -281,7 +285,9 @@ Each conclusion in the report is tagged with an evidence level:
 ```text
 .
 ├── README.md
-├── SystemHelper_Audit-Report.md    # Сводный отчёт по обратной разработке и аудиту безопасности (v1.0)
+├── SystemHelper_Audit-Report.md          # Сводный отчёт (китайский)
+├── SystemHelper_Audit-Report.en-US.md    # Тот же отчёт, американский английский
+├── SystemHelper_Audit-Report.ru-RU.md    # Тот же отчёт, русский
 ├── Binaries/                       # Двоичный образец
 │   └── SystemHelper_1.2-20221110.apk
 ├── audit/
